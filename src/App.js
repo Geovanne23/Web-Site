@@ -19,7 +19,7 @@ function App() {
   const addToCardTotal = (value) => setCardTotal(cardTotal + value);
 
   useEffect(() => {
-    fetch("/db.json")
+    fetch(process.env.PUBLIC_URL + "/db.json")
       .then((res) => res.json())
       .then((data) => setProducts(data.products));
   }, []);
