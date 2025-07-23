@@ -69,6 +69,6 @@ src/
 
 ## Autor
 
-Projeto desenvolvido por **Geovanne Ado**  
+Projeto desenvolvido por **Geovanne Augusto Domingues de Oliveira**  
 GitHub: [@Geovanne23](https://github.com/Geovanne23)  
 E-mail: geovanne.ado@outlook.com
