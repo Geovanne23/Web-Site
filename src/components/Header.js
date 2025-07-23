@@ -16,7 +16,7 @@ export default function Header() {
           </p>
         </div>
         <div className="right-side">
-          <img src="/images/header-image.png" alt="Products" />
+          <img src="/public/images/header-image.png" alt="Products" />
         </div>
       </div>
     </header>
