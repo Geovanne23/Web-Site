@@ -9,8 +9,8 @@ export default function Footer() {
           <p>Baixe o nosso Aplicativo</p>
           <p>Baixe nosso aplicativo para Android e ios</p>
           <div>
-            <img src="/images/app-store.png" alt="App Store Download" />
-            <img src="/images/play-store.png" alt="Play Store Download" />
+            <img src="/public/images/app-store.png" alt="App Store Download" />
+            <img src="/public/images/play-store.png" alt="Play Store Download" />
           </div>
         </div>
         <div className="logo-footer">
