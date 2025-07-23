@@ -1,8 +1,3 @@
-import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import React from "react";
-import { Link } from "react-router-dom";
-
 export default function Header() {
   return (
     <header>
@@ -16,7 +11,7 @@ export default function Header() {
           </p>
         </div>
         <div className="right-side">
-          <img src="/public/images/header-image.png" alt="Products" />
+          <img src="images/header-image.png" alt="Products" />
         </div>
       </div>
     </header>
