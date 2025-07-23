@@ -22,7 +22,7 @@ export default function ExclusiveSection() {
             </p>
           </div>
           <div className="right-side">
-            <img src="/images/exclusive.png" alt="Smart Bang 9" />
+            <img src="/public/images/exclusive.png" alt="Smart Bang 9" />
           </div>
         </div>
       </div>
