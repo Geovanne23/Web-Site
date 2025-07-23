@@ -1,8 +1,3 @@
-import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import React from "react";
-import { Link } from "react-router-dom";
-
 export default function ExclusiveSection() {
   return (
     <div className="exclusive-section">
@@ -22,7 +17,7 @@ export default function ExclusiveSection() {
             </p>
           </div>
           <div className="right-side">
-            <img src="/public/images/exclusive.png" alt="Smart Bang 9" />
+            <img src="images/exclusive.png" alt="Smart Bang 9" />
           </div>
         </div>
       </div>
